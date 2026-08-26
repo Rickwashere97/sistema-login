@@ -1,0 +1,11 @@
+1. **Sistema de inventario** — agregar producto, ver stock, buscar producto, eliminar producto, salir
+
+2. **Agenda de contactos** — agregar contacto, buscar contacto, ver todos, eliminar contacto, salir
+
+3. **Registro de asistencia** — marcar asistencia, ver lista de asistentes, ver ausentes, buscar persona, salir
+
+4. **Conversor de unidades** — convertir temperatura, convertir moneda, convertir distancia, ver historial, salir
+
+5. **Sistema de reservas** — agendar cita, ver citas del día, cancelar cita, buscar disponibilidad, salir
+
+6. **Lista de tareas (to-do)** — agregar tarea, marcar completada, ver pendientes, ver completadas, salir
