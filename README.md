@@ -54,4 +54,4 @@ python main.py
 
 ## Autor
 
-Andrés Matoma — proyecto de práctica dentro del Tecnólogo en Desarrollo de Software (SENA).
+Andrés Matoma, Julian Yepes — proyecto de práctica dentro del Tecnólogo en Desarrollo de Software (SENA).
